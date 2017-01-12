@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484113231 source:d:\downs\codeblocks-16.01-nosetup\mb\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
